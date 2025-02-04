@@ -1,5 +1,5 @@
 
-# 🚀 My Blockchain Project
+# 🚀 TecX Blockchain Project
 A simple blockchain implementation using Python, Flask, and Proof-of-Work.
 
 ## Features
@@ -10,7 +10,7 @@ A simple blockchain implementation using Python, Flask, and Proof-of-Work.
 
 ## 📌 Installation
 ```sh
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
-cd YOUR_REPO
+git clone https://github.com/TecXCTO/TecXBC.git
+cd TecXBC
 pip install -r requirements.txt
 python run.py
