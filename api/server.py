@@ -1,6 +1,6 @@
 from flask import Flask, jsonify, request
-from blockchain.chain import Blockchain
-from blockchain.proof_of_work import ProofOfWork
+from TecXBC.chain import Blockchain
+from TecXBC.proof_of_work import ProofOfWork
 
 app = Flask(__name__)
 blockchain = Blockchain()
